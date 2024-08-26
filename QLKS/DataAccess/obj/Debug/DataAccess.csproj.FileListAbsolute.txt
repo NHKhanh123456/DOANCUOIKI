@@ -1,0 +1,18 @@
+C:\Users\Admin\OneDrive\Máy tính\QLKhachSan\QLKS\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Admin\OneDrive\Máy tính\QLKhachSan\QLKS\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Admin\OneDrive\Máy tính\QLKhachSan\QLKS\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\QLKhachSan\QLKS\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\QLKhachSan\QLKS\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Admin\OneDrive\Máy tính\QLKhachSan\QLKS\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\pnabd\Downloads\QLKS\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\pnabd\Downloads\QLKS\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\pnabd\Downloads\QLKS\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\pnabd\Downloads\QLKS\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\pnabd\Downloads\QLKS\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\pnabd\Downloads\QLKS\DataAccess\obj\Debug\DataAccess.pdb
+D:\3PLAYERS\QLKS (1)\QLKS\DataAccess\bin\Debug\DataAccess.dll
+D:\3PLAYERS\QLKS (1)\QLKS\DataAccess\bin\Debug\DataAccess.pdb
+D:\3PLAYERS\QLKS (1)\QLKS\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\3PLAYERS\QLKS (1)\QLKS\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\3PLAYERS\QLKS (1)\QLKS\DataAccess\obj\Debug\DataAccess.dll
+D:\3PLAYERS\QLKS (1)\QLKS\DataAccess\obj\Debug\DataAccess.pdb

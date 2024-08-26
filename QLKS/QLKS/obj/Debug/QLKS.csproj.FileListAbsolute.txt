@@ -1,0 +1,68 @@
+C:\Users\Admin\OneDrive\Máy tính\QLKhachSan\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\Admin\OneDrive\Máy tính\QLKhachSan\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\Admin\OneDrive\Máy tính\QLKhachSan\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\Admin\OneDrive\Máy tính\QLKhachSan\QLKS\QLKS\obj\Debug\QLKS.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\QLKhachSan\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Máy tính\QLKhachSan\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Máy tính\QLKhachSan\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\QLKhachSan\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\Admin\OneDrive\Máy tính\QLKhachSan\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\Admin\OneDrive\Máy tính\QLKhachSan\QLKS\QLKS\bin\Debug\BLL.dll
+C:\Users\Admin\OneDrive\Máy tính\QLKhachSan\QLKS\QLKS\bin\Debug\DataAccess.dll
+C:\Users\Admin\OneDrive\Máy tính\QLKhachSan\QLKS\QLKS\bin\Debug\BLL.pdb
+C:\Users\Admin\OneDrive\Máy tính\QLKhachSan\QLKS\QLKS\bin\Debug\DataAccess.pdb
+C:\Users\Admin\OneDrive\Máy tính\QLKhachSan\QLKS\QLKS\obj\Debug\QLKS.csproj.Up2Date
+C:\Users\Admin\OneDrive\Máy tính\QLKhachSan\QLKS\QLKS\obj\Debug\QLKS.Dangnhap.resources
+C:\Users\Admin\OneDrive\Máy tính\QLKhachSan\QLKS\QLKS\obj\Debug\QLKS.Tinhtien.resources
+C:\Users\Admin\OneDrive\Máy tính\QLKhachSan\QLKS\QLKS\obj\Debug\QLKS.Tinhtienphong.resources
+C:\Users\pnabd\Downloads\QLKS\QLKS\bin\Debug\QLKS.exe.config
+C:\Users\pnabd\Downloads\QLKS\QLKS\bin\Debug\QLKS.exe
+C:\Users\pnabd\Downloads\QLKS\QLKS\bin\Debug\QLKS.pdb
+C:\Users\pnabd\Downloads\QLKS\QLKS\bin\Debug\BLL.dll
+C:\Users\pnabd\Downloads\QLKS\QLKS\bin\Debug\DataAccess.dll
+C:\Users\pnabd\Downloads\QLKS\QLKS\bin\Debug\BLL.pdb
+C:\Users\pnabd\Downloads\QLKS\QLKS\bin\Debug\DataAccess.pdb
+C:\Users\pnabd\Downloads\QLKS\QLKS\obj\Debug\QLKS.csproj.AssemblyReference.cache
+C:\Users\pnabd\Downloads\QLKS\QLKS\obj\Debug\QLKS.Dangnhap.resources
+C:\Users\pnabd\Downloads\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+C:\Users\pnabd\Downloads\QLKS\QLKS\obj\Debug\QLKS.Tinhtienphong.resources
+C:\Users\pnabd\Downloads\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+C:\Users\pnabd\Downloads\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+C:\Users\pnabd\Downloads\QLKS\QLKS\obj\Debug\QLKS.csproj.Up2Date
+C:\Users\pnabd\Downloads\QLKS\QLKS\obj\Debug\QLKS.exe
+C:\Users\pnabd\Downloads\QLKS\QLKS\obj\Debug\QLKS.pdb
+C:\Users\pnabd\Downloads\QLKS\QLKS\obj\Debug\QLKS.HoaDon.resources
+D:\3PLAYERS\QLKS (1)\QLKS\QLKS\bin\Debug\QLKS.exe.config
+D:\3PLAYERS\QLKS (1)\QLKS\QLKS\bin\Debug\QLKS.exe
+D:\3PLAYERS\QLKS (1)\QLKS\QLKS\bin\Debug\QLKS.pdb
+D:\3PLAYERS\QLKS (1)\QLKS\QLKS\bin\Debug\BLL.dll
+D:\3PLAYERS\QLKS (1)\QLKS\QLKS\bin\Debug\DataAccess.dll
+D:\3PLAYERS\QLKS (1)\QLKS\QLKS\bin\Debug\BLL.pdb
+D:\3PLAYERS\QLKS (1)\QLKS\QLKS\bin\Debug\DataAccess.pdb
+D:\3PLAYERS\QLKS (1)\QLKS\QLKS\obj\Debug\QLKS.csproj.AssemblyReference.cache
+D:\3PLAYERS\QLKS (1)\QLKS\QLKS\obj\Debug\QLKS.Dangnhap.resources
+D:\3PLAYERS\QLKS (1)\QLKS\QLKS\obj\Debug\QLKS.HoaDon.resources
+D:\3PLAYERS\QLKS (1)\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+D:\3PLAYERS\QLKS (1)\QLKS\QLKS\obj\Debug\QLKS.Tinhtienphong.resources
+D:\3PLAYERS\QLKS (1)\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+D:\3PLAYERS\QLKS (1)\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+D:\3PLAYERS\QLKS (1)\QLKS\QLKS\obj\Debug\QLKS.csproj.Up2Date
+D:\3PLAYERS\QLKS (1)\QLKS\QLKS\obj\Debug\QLKS.exe
+D:\3PLAYERS\QLKS (1)\QLKS\QLKS\obj\Debug\QLKS.pdb
+D:\3PLAYERS\QLKS (1)\QLKS (1)\QLKS\QLKS\bin\Debug\QLKS.exe.config
+D:\3PLAYERS\QLKS (1)\QLKS (1)\QLKS\QLKS\bin\Debug\QLKS.exe
+D:\3PLAYERS\QLKS (1)\QLKS (1)\QLKS\QLKS\bin\Debug\QLKS.pdb
+D:\3PLAYERS\QLKS (1)\QLKS (1)\QLKS\QLKS\bin\Debug\BLL.dll
+D:\3PLAYERS\QLKS (1)\QLKS (1)\QLKS\QLKS\bin\Debug\DataAccess.dll
+D:\3PLAYERS\QLKS (1)\QLKS (1)\QLKS\QLKS\bin\Debug\BLL.pdb
+D:\3PLAYERS\QLKS (1)\QLKS (1)\QLKS\QLKS\bin\Debug\DataAccess.pdb
+D:\3PLAYERS\QLKS (1)\QLKS (1)\QLKS\QLKS\obj\Debug\QLKS.csproj.AssemblyReference.cache
+D:\3PLAYERS\QLKS (1)\QLKS (1)\QLKS\QLKS\obj\Debug\QLKS.Dangnhap.resources
+D:\3PLAYERS\QLKS (1)\QLKS (1)\QLKS\QLKS\obj\Debug\QLKS.HoaDon.resources
+D:\3PLAYERS\QLKS (1)\QLKS (1)\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+D:\3PLAYERS\QLKS (1)\QLKS (1)\QLKS\QLKS\obj\Debug\QLKS.Tinhtienphong.resources
+D:\3PLAYERS\QLKS (1)\QLKS (1)\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.cache
+D:\3PLAYERS\QLKS (1)\QLKS (1)\QLKS\QLKS\obj\Debug\QLKS.csproj.CoreCompileInputs.cache
+D:\3PLAYERS\QLKS (1)\QLKS (1)\QLKS\QLKS\obj\Debug\QLKS.csproj.Up2Date
+D:\3PLAYERS\QLKS (1)\QLKS (1)\QLKS\QLKS\obj\Debug\QLKS.exe
+D:\3PLAYERS\QLKS (1)\QLKS (1)\QLKS\QLKS\obj\Debug\QLKS.pdb
